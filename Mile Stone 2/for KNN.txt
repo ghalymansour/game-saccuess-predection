@@ -1,0 +1,41 @@
+KNN one_vs_all : 
+The Accuracy is :  86.27320954907162
+The Accuracy is :  89.65517241379311
+The Accuracy is :  89.19098143236074
+The Accuracy is :  90.05305039787798
+The Accuracy is :  89.25729442970822
+The Accuracy is :  89.12466843501326
+The Accuracy is :  89.05835543766578
+The Accuracy is :  88.85941644562334
+The Accuracy is :  88.79310344827587
+The Accuracy is :  88.46153846153845
+The Accuracy is :  88.39522546419099
+The Accuracy is :  88.52785145888595
+The Accuracy is :  88.39522546419099
+The Accuracy is :  88.19628647214854
+The Accuracy is :  87.93103448275862
+The Accuracy is :  88.12997347480106
+The Accuracy is :  87.86472148541115
+The Accuracy is :  87.66578249336871
+The Accuracy is :  87.46684350132627
+The Accuracy is :  87.40053050397879
+The Accuracy is :  87.33421750663129
+The Accuracy is :  87.13527851458885
+The Accuracy is :  87.06896551724138
+The Accuracy is :  87.06896551724138
+The Accuracy is :  86.93633952254642
+The Accuracy is :  86.80371352785146
+The Accuracy is :  86.80371352785146
+The Accuracy is :  86.80371352785146
+The Accuracy is :  86.6710875331565
+The Accuracy is :  86.6710875331565
+The Accuracy is :  86.60477453580901
+The Accuracy is :  86.47214854111405
+The Accuracy is :  86.53846153846155
+The Accuracy is :  86.27320954907162
+The Accuracy is :  86.3395225464191
+The Accuracy is :  86.3395225464191
+The Accuracy is :  86.27320954907162
+The Accuracy is :  86.20689655172413
+
+Process finished with exit code 0
